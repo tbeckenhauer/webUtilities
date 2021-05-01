@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Meetup - Account Communications
+// @name Meetup - Account Communications - Clean Up
 // @namespace Violentmonkey Scripts
 // @match https://www.meetup.com/account/comm/*
 // @grant none
